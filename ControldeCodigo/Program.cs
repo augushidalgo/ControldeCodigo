@@ -1,4 +1,5 @@
-﻿void MiPrimerMetodo()
+﻿// Controlador
+void MiPrimerMetodo()
 {
     //Haz algo
 }
