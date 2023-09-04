@@ -1,7 +1,7 @@
 public class reporteVentas
 {
-  public void ImprimirVentas()
-[
-  Console.WriteLine("Imprimir Ventas");
-]
+    public void ImprimirVentas()
+    {
+        Console.WriteLine("Imprimir Ventas");
+    }
 }
